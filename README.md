@@ -1,4 +1,4 @@
-#Simple Calculator made using HTML, CSS, and PHP.
+# Simple Calculator made using HTML, CSS, and PHP.
 
 The buttons were styled using basic CSS attributes like width, height, margin, border, and other similar attributes.  
 Their position is set in HTML by simply being set according to rows and columns.
